@@ -3,7 +3,7 @@ layout: post
 title:  New Changes To The Website!
 subtitle: Not that you can see them…
 date:   2023-02-03 16:02:17 +0000
-categories: jekyll update
+Tags: jekyll, update, GithubStuff, ICT, IDidSomethingCool
 ---
 
 QUOKKAS ARE AWESOME!
