@@ -17,11 +17,11 @@ The bit about coffee? I usually tend to be hopped up on either the titular drink
 
 As the section title suggests, these are the tools and items that I rely on for professional and personal purposes.
 
-### IT-related hardware and software:
+### IT-related hardware, software and services:
 
 2021 M1 iPad Pro, 2019 iPad Mini, 2020 Lenovo Chromebook Duet, mid-2013 MacBook Air, Intel NUC (6th-generation Core i3) powered by Linux Lite, iPod Touch 7th generation
 
-Github, Grid Diary, Kahoot, ColorNote, Working Copy, Darkroom, WeVideo, monday(dot)com, Grammarly, Lumafusion
+Github, Grid Diary, Kahoot, ColorNote, Working Copy, Darkroom, WeVideo, monday(dot)com, Grammarly, Lumafusion, Shellfish, DigitalOcean
 
 ### Music-related tools and items:
 
