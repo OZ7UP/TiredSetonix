@@ -129,4 +129,5 @@ Able to communicate (to varying degrees of proficiency) in English, Italian, Fre
 ### ICT
 
 - Able to use a range of office suite tools, such as the Google Suite, Microsoft Office, and LibreOffice on iPadOS, ChromeOS, MacOS, Linux, and Windows.
-- Created this website and another for [Roseburn Avenue](https://roseburnavenuemusic.com){:target="_blank"} through the use of GitHub, requiring a quick understanding of basic html and CSS.
+- Created this website and another for [Roseburn Avenue](https://roseburnavenuemusic.com){:target="_blank"} through the use of GitHub, requiring a quick understanding of basic html.
+ Version 1.5 of this website was also created through use of the Command Line Interface.
