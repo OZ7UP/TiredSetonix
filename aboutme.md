@@ -40,3 +40,9 @@ Additional brands currently either stored in Australia or are not in use: Schect
 ### My wardrobe:
 
 [Jack London](https://shop.jacklondon.com.au/){:target="_blank"}, [Vanquish Fitness](https://www.vqfit.com/){:target="_blank"}
+
+## About this website:
+
+This website was created using the Jekyll-based [Beautiful Jekyll](https://beautifuljekyll.com) theme as created by Daattali. If you want to learn how to make a simple website, [please visit his GitHub repository](https://github.com/daattali/beautiful-jekyll).
+
+[It’ll also help to learn how to write in the Markdown format](https://www.markdowntutorial.com/).
