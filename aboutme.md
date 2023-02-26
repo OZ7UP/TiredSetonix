@@ -43,6 +43,6 @@ Additional brands currently either stored in Australia or are not in use: Schect
 
 ## About this website:
 
-This website was created using the Jekyll-based [Beautiful Jekyll](https://beautifuljekyll.com) theme as created by Daattali. If you want to learn how to make a simple website, [please visit his GitHub repository](https://github.com/daattali/beautiful-jekyll).
+This website was created using the Jekyll-based [Beautiful Jekyll](https://beautifuljekyll.com) theme as created by Daattali. If you want to learn how to make a simple website, [please visit his GitHub repository](https://github.com/daattali/beautiful-jekyll){:target=“_blank”}.
 
-[It’ll also help to learn how to write in the Markdown format](https://www.markdowntutorial.com/).
+[It’ll also help to learn how to write in the Markdown format](https://www.markdowntutorial.com/){:target=“_blank”}.
