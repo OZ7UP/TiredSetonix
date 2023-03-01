@@ -19,6 +19,9 @@ I wrote this song back towards the end of 2017 back home in Naarm (Melbourne), s
 Right-click or hold down on the link to get the option to download, or you can just listen to it straight up.
 
 ### Android devices:
-Just click on the link. The built-in music player should give you the option to download the file.
+Just click on the link. The built-in music player should give you the option to download the file. This should work in Chrome and Chromium-based browsers.
+
+### Windows:
+Unfortunately, I'm not a huge Windows fan. Assume similar instructions to Android devices.
 
 Enjoy!
