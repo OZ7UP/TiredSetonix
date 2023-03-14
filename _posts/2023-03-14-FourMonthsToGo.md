@@ -3,11 +3,6 @@ layout: post
 title: Four Months Left On The Job
 subtitle: And then what?
 tags: Personal, WhatComesNext, Unedited
-comments:
-  show: true
-  host: famichiki.jp
-  username: RBurn_Ave_Zach
-  id: 110019430777049006
 ---
 
 Back in early 2018, when I received the call from the Japanese General Consulate in Naarm that I would be participating in the JET Programme, I thought I would be back home after a couple of years, three if I did a good enough job.
@@ -27,3 +22,5 @@ I'll be spending August destressing here in Nagasaki before doing some travellin
 As for what comes next, one of the first things I'm going to do when I'm back home in Naarm is to take the train down to Oakleigh Station and make my way to Kalimera Souvlaki Art.
 
 It'll be a glorious reunion betwixt man and food.
+
+## Feel free to leave a comment [here](https://famichiki.jp/@RBurn_Ave_Zach/110019430777049006){:target="_blank"}
