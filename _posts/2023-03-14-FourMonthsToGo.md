@@ -4,6 +4,7 @@ title: Four Months Left On The Job
 subtitle: And then what?
 tags: Personal, WhatComesNext, Unedited
 comments:
+  show: true
   host: famichiki.jp
   username: RBurn_Ave_Zach
   id: 110019430777049006
