@@ -3,6 +3,10 @@ layout: post
 title: Four Months Left On The Job
 subtitle: And then what?
 tags: Personal, WhatComesNext, Unedited
+comments:
+  host: famichiki.jp
+  username: RBurn_Ave_Zach
+  id: 110019430777049006
 ---
 
 Back in early 2018, when I received the call from the Japanese General Consulate in Naarm that I would be participating in the JET Programme, I thought I would be back home after a couple of years, three if I did a good enough job.
