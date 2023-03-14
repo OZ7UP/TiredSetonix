@@ -75,10 +75,10 @@ layout: base
           <a class="page-link" href="{{ page.next.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title | strip_html | xml_escape}}">Next Post &rarr;</a>
         </li>
         {% endif %}
-      </ul>
       {% if page.comments %}
         {% include fediverse_comments.html %}
       {% endif %}
+      </ul>
     </div>
   </div>
 </div>
