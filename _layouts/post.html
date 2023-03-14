@@ -63,6 +63,10 @@ layout: base
       {% if page.social-share %}
         {% include social-share.html %}
       {% endif %}
+      
+      {%- if page.comments -%}
+    {%- include fediverse_comments.html -%}
+{%- endif -%}
 
       <ul class="pagination blog-pager">
         {% if page.previous.url %}
