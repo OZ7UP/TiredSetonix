@@ -5,7 +5,7 @@ subtitle: And then what?
 tags: Personal, WhatComesNext, Unedited
 ---
 
-Back in early 2018, when I received the call from the Japanese General Consulate in Melbourne that I would be participating in the JET Programme, I thought I would be back home in Naarm after a couple of years, three if I did a good enough job.
+Back in early 2018, when I received the call from the Japanese General Consulate in Naarm that I would be participating in the JET Programme, I thought I would be back home after a couple of years, three if I did a good enough job.
 
 One ongoing pandemic later, and I'm coming towards the end of my fifth and final year of my rolling contract. They say that time flies when you're having fun, but "they" didn't account for a pandemic-enforced routine as another possible reason why time can go by quickly.
 
